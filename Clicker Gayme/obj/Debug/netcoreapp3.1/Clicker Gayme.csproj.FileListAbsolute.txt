@@ -1,0 +1,65 @@
+C:\Users\artem\source\repos\Click la Click\Clicker Gayme\bin\Debug\netcoreapp3.1\Clicker Gayme.exe
+C:\Users\artem\source\repos\Click la Click\Clicker Gayme\bin\Debug\netcoreapp3.1\Clicker Gayme.deps.json
+C:\Users\artem\source\repos\Click la Click\Clicker Gayme\bin\Debug\netcoreapp3.1\Clicker Gayme.runtimeconfig.json
+C:\Users\artem\source\repos\Click la Click\Clicker Gayme\bin\Debug\netcoreapp3.1\Clicker Gayme.runtimeconfig.dev.json
+C:\Users\artem\source\repos\Click la Click\Clicker Gayme\bin\Debug\netcoreapp3.1\Clicker Gayme.dll
+C:\Users\artem\source\repos\Click la Click\Clicker Gayme\bin\Debug\netcoreapp3.1\Clicker Gayme.pdb
+C:\Users\artem\source\repos\Click la Click\Clicker Gayme\obj\Debug\netcoreapp3.1\Clicker Gayme.csproj.AssemblyReference.cache
+C:\Users\artem\source\repos\Click la Click\Clicker Gayme\obj\Debug\netcoreapp3.1\Clicker_Gayme.Form1.resources
+C:\Users\artem\source\repos\Click la Click\Clicker Gayme\obj\Debug\netcoreapp3.1\Clicker Gayme.csproj.GenerateResource.cache
+C:\Users\artem\source\repos\Click la Click\Clicker Gayme\obj\Debug\netcoreapp3.1\Clicker Gayme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artem\source\repos\Click la Click\Clicker Gayme\obj\Debug\netcoreapp3.1\Clicker Gayme.AssemblyInfoInputs.cache
+C:\Users\artem\source\repos\Click la Click\Clicker Gayme\obj\Debug\netcoreapp3.1\Clicker Gayme.AssemblyInfo.cs
+C:\Users\artem\source\repos\Click la Click\Clicker Gayme\obj\Debug\netcoreapp3.1\Clicker Gayme.csproj.CoreCompileInputs.cache
+C:\Users\artem\source\repos\Click la Click\Clicker Gayme\obj\Debug\netcoreapp3.1\Clicker Gayme.dll
+C:\Users\artem\source\repos\Click la Click\Clicker Gayme\obj\Debug\netcoreapp3.1\Clicker Gayme.pdb
+C:\Users\artem\source\repos\Click la Click\Clicker Gayme\obj\Debug\netcoreapp3.1\Clicker Gayme.genruntimeconfig.cache
+C:\Users\Sammy\Documents\Click la Click\Clicker Gayme\bin\Debug\netcoreapp3.1\Clicker Gayme.exe
+C:\Users\Sammy\Documents\Click la Click\Clicker Gayme\bin\Debug\netcoreapp3.1\Clicker Gayme.deps.json
+C:\Users\Sammy\Documents\Click la Click\Clicker Gayme\bin\Debug\netcoreapp3.1\Clicker Gayme.runtimeconfig.json
+C:\Users\Sammy\Documents\Click la Click\Clicker Gayme\bin\Debug\netcoreapp3.1\Clicker Gayme.runtimeconfig.dev.json
+C:\Users\Sammy\Documents\Click la Click\Clicker Gayme\bin\Debug\netcoreapp3.1\Clicker Gayme.dll
+C:\Users\Sammy\Documents\Click la Click\Clicker Gayme\bin\Debug\netcoreapp3.1\Clicker Gayme.pdb
+C:\Users\Sammy\Documents\Click la Click\Clicker Gayme\obj\Debug\netcoreapp3.1\Clicker Gayme.csproj.AssemblyReference.cache
+C:\Users\Sammy\Documents\Click la Click\Clicker Gayme\obj\Debug\netcoreapp3.1\Clicker_Gayme.Form1.resources
+C:\Users\Sammy\Documents\Click la Click\Clicker Gayme\obj\Debug\netcoreapp3.1\Clicker Gayme.csproj.GenerateResource.cache
+C:\Users\Sammy\Documents\Click la Click\Clicker Gayme\obj\Debug\netcoreapp3.1\Clicker Gayme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sammy\Documents\Click la Click\Clicker Gayme\obj\Debug\netcoreapp3.1\Clicker Gayme.AssemblyInfoInputs.cache
+C:\Users\Sammy\Documents\Click la Click\Clicker Gayme\obj\Debug\netcoreapp3.1\Clicker Gayme.AssemblyInfo.cs
+C:\Users\Sammy\Documents\Click la Click\Clicker Gayme\obj\Debug\netcoreapp3.1\Clicker Gayme.csproj.CoreCompileInputs.cache
+C:\Users\Sammy\Documents\Click la Click\Clicker Gayme\obj\Debug\netcoreapp3.1\Clicker Gayme.dll
+C:\Users\Sammy\Documents\Click la Click\Clicker Gayme\obj\Debug\netcoreapp3.1\Clicker Gayme.pdb
+C:\Users\Sammy\Documents\Click la Click\Clicker Gayme\obj\Debug\netcoreapp3.1\Clicker Gayme.genruntimeconfig.cache
+C:\Users\Sammy\Documents\Clicker Gayme\Clicker Gayme\bin\Debug\netcoreapp3.1\Clicker Gayme.exe
+C:\Users\Sammy\Documents\Clicker Gayme\Clicker Gayme\bin\Debug\netcoreapp3.1\Clicker Gayme.deps.json
+C:\Users\Sammy\Documents\Clicker Gayme\Clicker Gayme\bin\Debug\netcoreapp3.1\Clicker Gayme.runtimeconfig.json
+C:\Users\Sammy\Documents\Clicker Gayme\Clicker Gayme\bin\Debug\netcoreapp3.1\Clicker Gayme.runtimeconfig.dev.json
+C:\Users\Sammy\Documents\Clicker Gayme\Clicker Gayme\bin\Debug\netcoreapp3.1\Clicker Gayme.dll
+C:\Users\Sammy\Documents\Clicker Gayme\Clicker Gayme\bin\Debug\netcoreapp3.1\Clicker Gayme.pdb
+C:\Users\Sammy\Documents\Clicker Gayme\Clicker Gayme\obj\Debug\netcoreapp3.1\Clicker Gayme.csproj.AssemblyReference.cache
+C:\Users\Sammy\Documents\Clicker Gayme\Clicker Gayme\obj\Debug\netcoreapp3.1\Clicker_Gayme.Form1.resources
+C:\Users\Sammy\Documents\Clicker Gayme\Clicker Gayme\obj\Debug\netcoreapp3.1\Clicker Gayme.csproj.GenerateResource.cache
+C:\Users\Sammy\Documents\Clicker Gayme\Clicker Gayme\obj\Debug\netcoreapp3.1\Clicker Gayme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sammy\Documents\Clicker Gayme\Clicker Gayme\obj\Debug\netcoreapp3.1\Clicker Gayme.AssemblyInfoInputs.cache
+C:\Users\Sammy\Documents\Clicker Gayme\Clicker Gayme\obj\Debug\netcoreapp3.1\Clicker Gayme.AssemblyInfo.cs
+C:\Users\Sammy\Documents\Clicker Gayme\Clicker Gayme\obj\Debug\netcoreapp3.1\Clicker Gayme.csproj.CoreCompileInputs.cache
+C:\Users\Sammy\Documents\Clicker Gayme\Clicker Gayme\obj\Debug\netcoreapp3.1\Clicker Gayme.dll
+C:\Users\Sammy\Documents\Clicker Gayme\Clicker Gayme\obj\Debug\netcoreapp3.1\Clicker Gayme.pdb
+C:\Users\Sammy\Documents\Clicker Gayme\Clicker Gayme\obj\Debug\netcoreapp3.1\Clicker Gayme.genruntimeconfig.cache
+C:\Users\hatma\Documents\Visual Studio 2022\Projects\Clicker Gayme\Clicker Gayme\bin\Debug\netcoreapp3.1\Clicker Gayme.exe
+C:\Users\hatma\Documents\Visual Studio 2022\Projects\Clicker Gayme\Clicker Gayme\bin\Debug\netcoreapp3.1\Clicker Gayme.deps.json
+C:\Users\hatma\Documents\Visual Studio 2022\Projects\Clicker Gayme\Clicker Gayme\bin\Debug\netcoreapp3.1\Clicker Gayme.runtimeconfig.json
+C:\Users\hatma\Documents\Visual Studio 2022\Projects\Clicker Gayme\Clicker Gayme\bin\Debug\netcoreapp3.1\Clicker Gayme.runtimeconfig.dev.json
+C:\Users\hatma\Documents\Visual Studio 2022\Projects\Clicker Gayme\Clicker Gayme\bin\Debug\netcoreapp3.1\Clicker Gayme.dll
+C:\Users\hatma\Documents\Visual Studio 2022\Projects\Clicker Gayme\Clicker Gayme\bin\Debug\netcoreapp3.1\Clicker Gayme.pdb
+C:\Users\hatma\Documents\Visual Studio 2022\Projects\Clicker Gayme\Clicker Gayme\obj\Debug\netcoreapp3.1\Clicker Gayme.csproj.AssemblyReference.cache
+C:\Users\hatma\Documents\Visual Studio 2022\Projects\Clicker Gayme\Clicker Gayme\obj\Debug\netcoreapp3.1\Clicker_Gayme.Form1.resources
+C:\Users\hatma\Documents\Visual Studio 2022\Projects\Clicker Gayme\Clicker Gayme\obj\Debug\netcoreapp3.1\Clicker Gayme.csproj.GenerateResource.cache
+C:\Users\hatma\Documents\Visual Studio 2022\Projects\Clicker Gayme\Clicker Gayme\obj\Debug\netcoreapp3.1\Clicker Gayme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hatma\Documents\Visual Studio 2022\Projects\Clicker Gayme\Clicker Gayme\obj\Debug\netcoreapp3.1\Clicker Gayme.AssemblyInfoInputs.cache
+C:\Users\hatma\Documents\Visual Studio 2022\Projects\Clicker Gayme\Clicker Gayme\obj\Debug\netcoreapp3.1\Clicker Gayme.AssemblyInfo.cs
+C:\Users\hatma\Documents\Visual Studio 2022\Projects\Clicker Gayme\Clicker Gayme\obj\Debug\netcoreapp3.1\Clicker Gayme.csproj.CoreCompileInputs.cache
+C:\Users\hatma\Documents\Visual Studio 2022\Projects\Clicker Gayme\Clicker Gayme\obj\Debug\netcoreapp3.1\Clicker Gayme.dll
+C:\Users\hatma\Documents\Visual Studio 2022\Projects\Clicker Gayme\Clicker Gayme\obj\Debug\netcoreapp3.1\Clicker Gayme.pdb
+C:\Users\hatma\Documents\Visual Studio 2022\Projects\Clicker Gayme\Clicker Gayme\obj\Debug\netcoreapp3.1\Clicker Gayme.genruntimeconfig.cache
+C:\Users\hatma\Documents\Visual Studio 2022\Projects\Clicker Gayme\Clicker Gayme\obj\Debug\netcoreapp3.1\Clicker_Gayme.Properties.Resources.resources
